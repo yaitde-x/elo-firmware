@@ -1,0 +1,9 @@
+{"s":1,"v":1,"c":{"r":255,"g":255,"b":255},"a":0,"l":50,"p1":0,"p2":0,"p3":0,"p4":0,"p5":0}
+
+wdt reset
+load 0x4010f000, len 1384, room 16 
+tail 8
+chksum 0x2d
+csum 0x2d
+v4ceabea9
+~ld

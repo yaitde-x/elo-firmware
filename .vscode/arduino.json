@@ -1,0 +1,8 @@
+{
+    "sketch": "elo_firmware.ino",
+    "port": "/dev/cu.wchusbserial1410",
+    "board": "esp8266:esp8266:d1_mini",
+    "output": "../build",
+    "debugger": "jlink",
+    "configuration": "CpuFrequency=80,UploadSpeed=921600,FlashSize=4M1M"
+}
